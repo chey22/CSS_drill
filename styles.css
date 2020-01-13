@@ -1,0 +1,110 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+.readme-wrapper {
+    text-decoration: none;
+}
+
+.readme-wrapper :hover {
+    cursor: pointer;
+    font: bold;
+    color: orange;
+}
+
+span.oneWord {
+    color: red;
+    font-weight: 800;
+}
+
+.boxes {
+    border: 2px solid black;
+    margin: 5px;
+    padding: 1em;
+    border-radius: 5px;
+    width: 30em;
+    display: block;
+    position: relative;
+}
+
+#box1 {
+    background-color: lightgreen ;
+}
+
+#box2 {
+    background-color: lightpink;
+}
+
+#box3 {
+    background-color: lightskyblue;
+}
+
+#box4 {
+    background-color: lightgoldenrodyellow;
+}
+
+#box5 {
+    background-color: lightsalmon;
+}
+
+.images {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: lightslategrey;
+    position: relative;
+    top: 3.5em;
+    left: 3em;
+}
+
+h1 {
+    color: maroon;
+}
+
+.original {
+    color: blueviolet;
+}
+
+.additional {
+    color: deeppink;
+}
+
+#show1 {
+    color: deepskyblue;
+}
+
+#show2 {
+    color: firebrick;
+}
+
+#show3 {
+    color: forestgreen;
+}
+
+#show4 {
+    color: goldenrod;
+}
+
+#show5 {
+    color: indigo;
+}
+
+#friendsList {
+    color: magenta;
+    border: 2px solid black
+}
+
+.star {
+    color: navy;
+    border: 2px solid black
+}
+
+#wars {
+    color: orangered;
+    border: 2px solid black
+}
